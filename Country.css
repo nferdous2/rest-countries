@@ -1,0 +1,11 @@
+.card{
+    box-sizing: border-box;
+    box-shadow: 0px 0px 10px gray;
+    border: 5px;
+    color:rgb(40, 22, 70);
+    margin: auto;
+}
+.card-body{
+    background-color: rgba(208, 226, 253, 0.315);
+
+}
